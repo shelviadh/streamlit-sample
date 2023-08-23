@@ -1,0 +1,8 @@
+boto3
+pandas
+numpy
+torch
+python-dotenv
+sentence_transformers
+transformers
+streamlit
